@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "app-launch-factory",
+  "version": "1.0.0",
+  "description": "Plan a measurable software launch from readiness through rollout and post-launch learning.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "App Launch Factory",
+        "shortDescription": "Plan a measurable app launch",
+        "longDescription": "Plan a measurable software launch from readiness through rollout and post-launch learning.",
+        "defaultPrompt": [
+          "Plan a three-region booking-service launch in six weeks; mark unknown readiness facts.",
+          "Review my App Launch Factory output for gaps and unsafe assumptions."
+        ],
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png",
+        "developerName": "Andrew Steven Cairns",
+        "websiteURL": "https://plugins.acairnsapps.org/products/app-launch-factory",
+        "privacyPolicyURL": "https://plugins.acairnsapps.org/privacy",
+        "termsOfServiceURL": "https://plugins.acairnsapps.org/terms",
+        "supportURL": "https://plugins.acairnsapps.org/support",
+        "category": "Developer Tools"
+      },
+      "publication": {
+        "release_notes": "Initial release with evidence-led workflows and explicit safety boundaries.",
+        "countries": []
+      }
+    }
+  },
+  "author": {
+    "name": "Andrew Steven Cairns",
+    "email": "acairns07@gmail.com"
+  },
+  "homepage": "https://plugins.acairnsapps.org/"
+}

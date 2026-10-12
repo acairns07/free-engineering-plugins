@@ -1,0 +1,248 @@
+{
+  "name": "andrew-cairns-free-plugins",
+  "interface": {
+    "displayName": "Andrew Cairns Free Plugins"
+  },
+  "plugins": [
+    {
+      "name": "accessibility-auditor",
+      "source": {
+        "source": "local",
+        "path": "./plugins/accessibility-auditor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "api-design-reviewer",
+      "source": {
+        "source": "local",
+        "path": "./plugins/api-design-reviewer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "app-launch-factory",
+      "source": {
+        "source": "local",
+        "path": "./plugins/app-launch-factory"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "architecture-reviewer",
+      "source": {
+        "source": "local",
+        "path": "./plugins/architecture-reviewer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "cloud-migration-planner",
+      "source": {
+        "source": "local",
+        "path": "./plugins/cloud-migration-planner"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "data-contract-builder",
+      "source": {
+        "source": "local",
+        "path": "./plugins/data-contract-builder"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "data-quality-investigator",
+      "source": {
+        "source": "local",
+        "path": "./plugins/data-quality-investigator"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "finops-estimator",
+      "source": {
+        "source": "local",
+        "path": "./plugins/finops-estimator"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "incident-commander",
+      "source": {
+        "source": "local",
+        "path": "./plugins/incident-commander"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "kubernetes-reviewer",
+      "source": {
+        "source": "local",
+        "path": "./plugins/kubernetes-reviewer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "prd-factory",
+      "source": {
+        "source": "local",
+        "path": "./plugins/prd-factory"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "project-estimator",
+      "source": {
+        "source": "local",
+        "path": "./plugins/project-estimator"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "rca-factory",
+      "source": {
+        "source": "local",
+        "path": "./plugins/rca-factory"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "release-readiness-factory",
+      "source": {
+        "source": "local",
+        "path": "./plugins/release-readiness-factory"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "risk-register",
+      "source": {
+        "source": "local",
+        "path": "./plugins/risk-register"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
+      "name": "security-threat-modeler",
+      "source": {
+        "source": "local",
+        "path": "./plugins/security-threat-modeler"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "sql-doctor",
+      "source": {
+        "source": "local",
+        "path": "./plugins/sql-doctor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "technical-debt-planner",
+      "source": {
+        "source": "local",
+        "path": "./plugins/technical-debt-planner"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "terraform-reviewer",
+      "source": {
+        "source": "local",
+        "path": "./plugins/terraform-reviewer"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "test-factory",
+      "source": {
+        "source": "local",
+        "path": "./plugins/test-factory"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

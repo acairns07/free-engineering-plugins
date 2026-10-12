@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "api-design-reviewer",
+  "version": "1.0.0",
+  "description": "Review API contracts for clear semantics, compatibility, security and failure behaviour.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "API Design Reviewer",
+        "shortDescription": "Review API contracts",
+        "longDescription": "Review API contracts for clear semantics, compatibility, security and failure behaviour.",
+        "defaultPrompt": [
+          "Review this API change for compatibility, authz gaps and failure semantics; propose contract tests.",
+          "Review my API Design Reviewer output for gaps and unsafe assumptions."
+        ],
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png",
+        "developerName": "Andrew Steven Cairns",
+        "websiteURL": "https://plugins.acairnsapps.org/products/api-design-reviewer",
+        "privacyPolicyURL": "https://plugins.acairnsapps.org/privacy",
+        "termsOfServiceURL": "https://plugins.acairnsapps.org/terms",
+        "supportURL": "https://plugins.acairnsapps.org/support",
+        "category": "Developer Tools"
+      },
+      "publication": {
+        "release_notes": "Initial release with evidence-led workflows and explicit safety boundaries.",
+        "countries": []
+      }
+    }
+  },
+  "author": {
+    "name": "Andrew Steven Cairns",
+    "email": "acairns07@gmail.com"
+  },
+  "homepage": "https://plugins.acairnsapps.org/"
+}

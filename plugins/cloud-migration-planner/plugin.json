@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "cloud-migration-planner",
+  "version": "1.0.0",
+  "description": "Plan a controlled workload migration with dependency, readiness and reversible cutover gates.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Cloud Migration Planner",
+        "shortDescription": "Plan a controlled migration",
+        "longDescription": "Plan a controlled workload migration with dependency, readiness and reversible cutover gates.",
+        "defaultPrompt": [
+          "Plan a migration of a three-tier portal and PostgreSQL database; start with discovery and wave gates.",
+          "Review my Cloud Migration Planner output for gaps and unsafe assumptions."
+        ],
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png",
+        "developerName": "Andrew Steven Cairns",
+        "websiteURL": "https://plugins.acairnsapps.org/products/cloud-migration-planner",
+        "privacyPolicyURL": "https://plugins.acairnsapps.org/privacy",
+        "termsOfServiceURL": "https://plugins.acairnsapps.org/terms",
+        "supportURL": "https://plugins.acairnsapps.org/support",
+        "category": "Developer Tools"
+      },
+      "publication": {
+        "release_notes": "Initial release with evidence-led workflows and explicit safety boundaries.",
+        "countries": []
+      }
+    }
+  },
+  "author": {
+    "name": "Andrew Steven Cairns",
+    "email": "acairns07@gmail.com"
+  },
+  "homepage": "https://plugins.acairnsapps.org/"
+}

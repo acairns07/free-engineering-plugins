@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "risk-register",
+  "version": "1.0.1",
+  "description": "Turn project uncertainty into owned risks with triggers, mitigations and review cadence.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Risk Register",
+        "shortDescription": "Track delivery risks",
+        "longDescription": "Turn project uncertainty into owned risks with triggers, mitigations and review cadence.",
+        "defaultPrompt": [
+          "Build a risk register for a customer-data migration with a fixed cutover window; leave unknown owners blank.",
+          "Review my Risk Register output for gaps and unsafe assumptions."
+        ],
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png",
+        "developerName": "Andrew Steven Cairns",
+        "websiteURL": "https://plugins.acairnsapps.org/products/risk-register",
+        "privacyPolicyURL": "https://plugins.acairnsapps.org/privacy",
+        "termsOfServiceURL": "https://plugins.acairnsapps.org/terms",
+        "supportURL": "https://plugins.acairnsapps.org/support",
+        "category": "Productivity"
+      },
+      "publication": {
+        "release_notes": "Corrected the listing category to Productivity for risk-register and mitigation-planning workflows.",
+        "countries": []
+      }
+    }
+  },
+  "author": {
+    "name": "Andrew Steven Cairns",
+    "email": "acairns07@gmail.com"
+  },
+  "homepage": "https://plugins.acairnsapps.org/"
+}

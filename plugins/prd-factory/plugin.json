@@ -1,0 +1,36 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "prd-factory",
+  "version": "1.0.0",
+  "description": "Create evidence-linked product requirements, bounded scope, acceptance criteria and delivery questions from an idea or existing brief.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "PRD Factory",
+        "shortDescription": "Turn needs into buildable PRDs",
+        "longDescription": "Create evidence-linked product requirements, bounded scope, acceptance criteria and delivery questions from an idea or existing brief.",
+        "defaultPrompt": [
+          "Turn this product idea into an implementation-ready PRD.",
+          "Review this PRD for missing decisions and measurable acceptance criteria."
+        ],
+        "logo": "./assets/icon.png",
+        "composerIcon": "./assets/icon.png",
+        "developerName": "Andrew Steven Cairns",
+        "websiteURL": "https://plugins.acairnsapps.org/products/prd-factory",
+        "privacyPolicyURL": "https://plugins.acairnsapps.org/privacy",
+        "termsOfServiceURL": "https://plugins.acairnsapps.org/terms",
+        "supportURL": "https://plugins.acairnsapps.org/support",
+        "category": "Developer Tools"
+      },
+      "publication": {
+        "release_notes": "Initial release with evidence-led workflows and explicit safety boundaries.",
+        "countries": []
+      }
+    }
+  },
+  "author": {
+    "name": "Andrew Steven Cairns",
+    "email": "acairns07@gmail.com"
+  },
+  "homepage": "https://plugins.acairnsapps.org/"
+}

@@ -1,0 +1,38 @@
+# Draft template: replace bracketed values and confirm every proposed guarantee.
+contract_version: 1.0.0
+id: <dataset-id>
+status: draft
+purpose: <business-purpose>
+owner: <accountable-team>
+consumers: []
+keys: []
+fields:
+  - name: <field>
+    type: <logical-type>
+    description: <meaning>
+    nullable: false
+    units: <unit-or-not-applicable>
+    classification: <classification>
+delivery:
+  mode: <batch-or-event>
+  cadence: <interval>
+  freshness: <measurement-point-and-target>
+  late_arrivals: <policy>
+  corrections: <policy>
+  deletion: <policy>
+quality_rules:
+  - id: Q-001
+    predicate: <testable-rule>
+    threshold: <proposed-threshold>
+    window: <observation-window>
+    failure_action: <block-or-warn-and-owner>
+privacy:
+  retention: <duration-and-basis>
+  access_roles: []
+  deletion_propagation: <scope-and-time>
+evolution:
+  compatibility: <consumer-validation-policy>
+  deprecation: <notice-and-owner>
+operations:
+  replay: <idempotency-and-scope>
+  recovery: <partial-failure-policy>
