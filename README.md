@@ -54,4 +54,4 @@ Package checks passed; interactive workflow acceptance is recorded separately.
 These free packages are distributed under the [MIT licence](LICENSE). The licence
 is also included in each individual ZIP's README. This exporter itself performs
 no public upload; release status must be verified in the distribution repository.
-Report issues to acairns07@gmail.com. Do not include secrets or private documents.
+Report issues to ascaidevlabs@gmail.com. Do not include secrets or private documents.
