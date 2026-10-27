@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "technical-debt-planner",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn technical debt into an evidence-backed portfolio of risks and sequenced repayment work.",
   "extensions": {
     "com.openai": {
@@ -16,14 +16,14 @@
         "logo": "./assets/icon.png",
         "composerIcon": "./assets/icon.png",
         "developerName": "Andrew Steven Cairns",
-        "websiteURL": "https://plugins.acairnsapps.org/products/technical-debt-planner",
-        "privacyPolicyURL": "https://plugins.acairnsapps.org/privacy",
-        "termsOfServiceURL": "https://plugins.acairnsapps.org/terms",
-        "supportURL": "https://plugins.acairnsapps.org/support",
+        "websiteURL": "https://plugins.ascaidevlabs.com/products/technical-debt-planner",
+        "privacyPolicyURL": "https://plugins.ascaidevlabs.com/privacy",
+        "termsOfServiceURL": "https://plugins.ascaidevlabs.com/terms",
+        "supportURL": "https://plugins.ascaidevlabs.com/support",
         "category": "Developer Tools"
       },
       "publication": {
-        "release_notes": "Initial release with evidence-led workflows and explicit safety boundaries.",
+        "release_notes": "Package 1.0.1: update public website, privacy, terms and support URLs to ascaidevlabs.com; existing MCP connection and OAuth resource identifiers are unchanged.",
         "countries": []
       }
     }
@@ -32,5 +32,5 @@
     "name": "Andrew Steven Cairns",
     "email": "ascaidevlabs@gmail.com"
   },
-  "homepage": "https://plugins.acairnsapps.org/"
+  "homepage": "https://plugins.ascaidevlabs.com/"
 }

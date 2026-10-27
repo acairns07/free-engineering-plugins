@@ -1,7 +1,7 @@
 # Connector Factory free tools
 
 Twenty free, MIT-licensed workflows for architecture, delivery, data, DevOps and
-product work, from [Connector Factory](https://plugins.acairnsapps.org) (operated by
+product work, from [Connector Factory](https://plugins.ascaidevlabs.com) (operated by
 AscaiDevLabs). Each one is a set of written instructions, a checklist and a template
 that guide your AI assistant through the job. No account, payment or server is needed:
 your assistant does the work.
@@ -30,34 +30,34 @@ Then use `/plugins` and install the tools you want. The marketplace appears as
 
 | Tool | Version | Use anywhere | Download |
 | --- | --- | --- | --- |
-| Accessibility Auditor | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/accessibility-auditor) | [ZIP](downloads/accessibility-auditor-1.0.0.zip) |
-| API Design Reviewer | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/api-design-reviewer) | [ZIP](downloads/api-design-reviewer-1.0.0.zip) |
-| App Launch Factory | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/app-launch-factory) | [ZIP](downloads/app-launch-factory-1.0.0.zip) |
-| Architecture Reviewer | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/architecture-reviewer) | [ZIP](downloads/architecture-reviewer-1.0.0.zip) |
-| Cloud Migration Planner | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/cloud-migration-planner) | [ZIP](downloads/cloud-migration-planner-1.0.0.zip) |
-| Data Contract Builder | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/data-contract-builder) | [ZIP](downloads/data-contract-builder-1.0.0.zip) |
-| Data Quality Investigator | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/data-quality-investigator) | [ZIP](downloads/data-quality-investigator-1.0.0.zip) |
-| FinOps Estimator | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/finops-estimator) | [ZIP](downloads/finops-estimator-1.0.0.zip) |
-| Incident Commander | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/incident-commander) | [ZIP](downloads/incident-commander-1.0.0.zip) |
-| Kubernetes Reviewer | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/kubernetes-reviewer) | [ZIP](downloads/kubernetes-reviewer-1.0.0.zip) |
-| PRD Factory | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/prd-factory) | [ZIP](downloads/prd-factory-1.0.0.zip) |
-| Project Estimator | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/project-estimator) | [ZIP](downloads/project-estimator-1.0.0.zip) |
-| RCA Factory | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/rca-factory) | [ZIP](downloads/rca-factory-1.0.0.zip) |
-| Release Readiness Factory | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/release-readiness-factory) | [ZIP](downloads/release-readiness-factory-1.0.0.zip) |
-| Risk Register | 1.0.1 | [Copy instructions](https://plugins.acairnsapps.org/products/risk-register) | [ZIP](downloads/risk-register-1.0.1.zip) |
-| Security Threat Modeler | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/security-threat-modeler) | [ZIP](downloads/security-threat-modeler-1.0.0.zip) |
-| SQL Doctor | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/sql-doctor) | [ZIP](downloads/sql-doctor-1.0.0.zip) |
-| Technical Debt Planner | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/technical-debt-planner) | [ZIP](downloads/technical-debt-planner-1.0.0.zip) |
-| Terraform Reviewer | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/terraform-reviewer) | [ZIP](downloads/terraform-reviewer-1.0.0.zip) |
-| Test Factory | 1.0.0 | [Copy instructions](https://plugins.acairnsapps.org/products/test-factory) | [ZIP](downloads/test-factory-1.0.0.zip) |
+| Accessibility Auditor | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/accessibility-auditor) | [ZIP](downloads/accessibility-auditor-1.0.1.zip) |
+| API Design Reviewer | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/api-design-reviewer) | [ZIP](downloads/api-design-reviewer-1.0.1.zip) |
+| App Launch Factory | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/app-launch-factory) | [ZIP](downloads/app-launch-factory-1.0.1.zip) |
+| Architecture Reviewer | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/architecture-reviewer) | [ZIP](downloads/architecture-reviewer-1.0.1.zip) |
+| Cloud Migration Planner | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/cloud-migration-planner) | [ZIP](downloads/cloud-migration-planner-1.0.1.zip) |
+| Data Contract Builder | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/data-contract-builder) | [ZIP](downloads/data-contract-builder-1.0.1.zip) |
+| Data Quality Investigator | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/data-quality-investigator) | [ZIP](downloads/data-quality-investigator-1.0.1.zip) |
+| FinOps Estimator | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/finops-estimator) | [ZIP](downloads/finops-estimator-1.0.1.zip) |
+| Incident Commander | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/incident-commander) | [ZIP](downloads/incident-commander-1.0.1.zip) |
+| Kubernetes Reviewer | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/kubernetes-reviewer) | [ZIP](downloads/kubernetes-reviewer-1.0.1.zip) |
+| PRD Factory | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/prd-factory) | [ZIP](downloads/prd-factory-1.0.1.zip) |
+| Project Estimator | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/project-estimator) | [ZIP](downloads/project-estimator-1.0.1.zip) |
+| RCA Factory | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/rca-factory) | [ZIP](downloads/rca-factory-1.0.1.zip) |
+| Release Readiness Factory | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/release-readiness-factory) | [ZIP](downloads/release-readiness-factory-1.0.1.zip) |
+| Risk Register | 1.0.2 | [Copy instructions](https://plugins.ascaidevlabs.com/products/risk-register) | [ZIP](downloads/risk-register-1.0.2.zip) |
+| Security Threat Modeler | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/security-threat-modeler) | [ZIP](downloads/security-threat-modeler-1.0.1.zip) |
+| SQL Doctor | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/sql-doctor) | [ZIP](downloads/sql-doctor-1.0.1.zip) |
+| Technical Debt Planner | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/technical-debt-planner) | [ZIP](downloads/technical-debt-planner-1.0.1.zip) |
+| Terraform Reviewer | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/terraform-reviewer) | [ZIP](downloads/terraform-reviewer-1.0.1.zip) |
+| Test Factory | 1.0.1 | [Copy instructions](https://plugins.ascaidevlabs.com/products/test-factory) | [ZIP](downloads/test-factory-1.0.1.zip) |
 
 ## Feedback and support
 
 We've just launched and we're improving every week. If something is confusing or
-missing, or you'd like a tool we don't have, email support@acairnsapps.org. We read
+missing, or you'd like a tool we don't have, email support@ascaidevlabs.com. We read
 every message. Please don't include secrets or private documents.
 
-Want deeper reviews with scoring? See the [Pro tools](https://plugins.acairnsapps.org/pricing).
+Want deeper reviews with scoring? See the [Pro tools](https://plugins.ascaidevlabs.com/pricing).
 
 ## Licence
 
